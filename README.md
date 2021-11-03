@@ -1,1 +1,1 @@
-# la-saphire-video-modal
+# WordPress Plugin Boilerplate for Svelte
